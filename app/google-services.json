@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423524558966",
+    "project_id": "opinion-a87a8",
+    "storage_bucket": "opinion-a87a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423524558966:android:e03e37bfbeb3073c85d757",
+        "android_client_info": {
+          "package_name": "com.shubham.opinion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKC1Ijn8K3bteVSfbeVav1_VP1gTqXCsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
